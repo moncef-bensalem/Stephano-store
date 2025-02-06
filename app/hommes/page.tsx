@@ -24,7 +24,7 @@ const produitsHommes = [
     id: 3,
     nom: "Sacoche",
     prix: 25,
-    image: "/images/hommes/sac.jpg",
+    image: "/images/hommes/Sac.jpg",
     description: "Sac poitrine en velours côtelé de couleur unie, mode et polyvalent."
   },
 
